@@ -17,4 +17,4 @@ venv/
 *.log
 
 # BAK
-*.bak
+*.bak.html
